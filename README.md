@@ -7,4 +7,4 @@ By **Níckolas de Aguiar Alves**
 
 A simple LaTeX template for a personal letterhead 
 
-![Example](./example.pdf)
+![Example](./example.png)
